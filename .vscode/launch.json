@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "num_rego",
+            "type": "python",
+            "request": "launch",
+            "python": "python3",
+            "program": "${workspaceFolder}/number_recognition/num_reco_use.py",
+            "args": [
+            ],
+            "cwd": "${workspaceFolder}/number_recognition",
+            "jinja": true,
+            "justMyCode": true,
+            "console": "integratedTerminal"
+        }
+    ]
+}
