@@ -11,3 +11,13 @@ python3 -m pip face_recognition
 python3 -m pip install torch
 
 python3 -m pip install torchvision
+
+# license_plate_recognition
+识别车牌照片为文本
+
+python3 -m pip install paddlepaddle
+
+python3 -m pip install paddleocr
+
+python3 -m pip install opencv-python
+
