@@ -21,3 +21,7 @@ python3 -m pip install paddleocr
 
 python3 -m pip install opencv-python
 
+# milvus
+学习操作milvus数据库
+
+python3 -m pip install pymilvus sentence-transformers torch
