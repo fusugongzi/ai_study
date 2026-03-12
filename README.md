@@ -25,3 +25,8 @@ python3 -m pip install opencv-python
 学习操作milvus数据库
 
 python3 -m pip install pymilvus sentence-transformers torch
+
+# knn
+k邻近算法
+
+python3 -m pip install scikit-learn
