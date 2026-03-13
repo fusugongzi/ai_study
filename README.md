@@ -30,3 +30,6 @@ python3 -m pip install pymilvus sentence-transformers torch
 k邻近算法
 
 python3 -m pip install scikit-learn
+
+# linear_regression
+线性回归，y=wx+b
