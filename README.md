@@ -33,3 +33,12 @@ python3 -m pip install scikit-learn
 
 # linear_regression
 线性回归，y=wx+b
+
+# decision_tree
+决策树
+
+decision_tree.py: 决策树
+
+random_forest.py: 随机森林
+
+当数据中包含大量类别特征（Category）和数值特征，且它们之间存在复杂的非线性关系时，随机森林表现更好。
